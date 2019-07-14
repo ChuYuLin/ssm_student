@@ -19,4 +19,7 @@ public class DateUtill {
         return parse;
 
     }
+    public void tes(){
+        System.out.println("有一个测试的");
+    }
 }
