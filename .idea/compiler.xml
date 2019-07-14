@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ssm_student_domain" />
         <module name="ssm_student_dao" />
-        <module name="ssm_student_utill" />
-        <module name="ssm_student_controller" />
         <module name="ssm_student_service" />
+        <module name="ssm_student_controller" />
+        <module name="ssm_student_utill" />
       </profile>
     </annotationProcessing>
   </component>
